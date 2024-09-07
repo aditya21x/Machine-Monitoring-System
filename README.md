@@ -1,0 +1,1 @@
+Developed an "IoT-Based Instrument Monitoring System for Pharmaceutical Industry" to monitor industrial machine performance, providing real-time alerts for proactive maintenance. This system aims to reduce machine downtime by 40% and increase overall production efficiency by 25%
